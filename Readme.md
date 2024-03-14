@@ -1,0 +1,1 @@
+ We are using the color thief library to extract the dominant colors from an image. Matplotlib is then used to plot the color graph.  We are using the color thief library to extract the dominant colors from an image. Matplotlib is then used to plot the color graph. 
